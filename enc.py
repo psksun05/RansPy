@@ -86,4 +86,4 @@ for filename in glob.iglob(startPath, recursive=True):
 #        if (ext == '.enc'):
 #            print('Decrypting> ' + filename)
 #            decrypt_file(key, filename)
-            os.remove(filename)
+#            os.remove(filename)
